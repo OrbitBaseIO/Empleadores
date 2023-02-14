@@ -1,27 +1,23 @@
 # Empleadores
 
-## ¿Que es Orbit Base?
+## ¿Que es Orbit Base? ☄️
 
-Orbit Base es una plataforma para encontrar y listar empleos remotos.
-Tenemos comunidades abiertas en desarrollo de tecnologias.
-Llegamos a mas de 1 millon de personas, gracias a nuestras alianzas
+Orbit Base es una de las comunidades abiertas educativas de tecnología más grande del mundo. Con más de 100k usuarios, OB es un destino principal para encontrar los mejores talentos y enumerar increíbles trabajos remotos.
 
-Orbit Base, se lanzó públicamente en 2019. Desde entonces, hemos visto
-crecer nuestras comunidades y alianzas a tal punto que estamos en mas de
-50 paises. ¡El trabajo remoto realmente se está apoderando del mundo!
+Orbit Base se lanzó públicamente en 2019. Desde entonces, hemos visto crecer a nuestra comunidad. Nos han visitado buscadores de empleo del 99% de los países de la Tierra. ¡El trabajo remoto realmente se está apoderando del mundo!
 
-## ¿Por qué elegir Orbit Base?
+## ¿Por qué elegir Orbit Base? 🛰️
 
-Hay muchas marcas de contratación de trabajo remoto. OB es la que tiene la comunidad más grande. Tenemos la mejor y más grande comunidad remota del mundo y llenamos el 90% de los puestos publicados. Con rapidez. Desde el 2019
+Hay muchos sitios de contratación remota por ahí. **OB** es la comunidad abierta de educación tecnológica más grande con trabajos remotos. No extraemos listados de otras plataformas, tenemos la mejor y más grande comunidad remota del mundo y llenamos el 90% de los puestos publicados. Rápidamente. Desde 2019
 
-### Estás en buena compañía
+### Estás en buena compañía 👾
 
-### Confiado por las startups tecnológicas líderes en el mundo.
+### Con la confianza de las principales empresas tecnológicas del mundo
 
 <hr />
 <br />
 
-## Contrate candidatos remotos de calidad, rápidamente
+## Contrate candidatos remotos talentosos de calidad, rápido
 
 Con **OB**, recibirá más solicitudes y candidatos calificados de una sola vez.
 
@@ -31,41 +27,55 @@ No todas las bolsas de trabajo pueden decir que han observado simultáneamente e
 
 El trabajo remoto ya no es el futuro del trabajo, está aquí. Contrate candidatos remotos de todo el mundo más rápido con nuestra experiencia y amplias conexiones.
 
-## Publicación de su trabajo en **OB**:
+## Publicar un trabajo en **OB**:
 
-### ¿Cuánto cuesta?
+- El precio base para publicar un trabajo en OB es de U$250
+- 2 trabajos U$450
+- 5 trabajos U$900
 
-Precio base
+## Servicio completo de reclutamiento en **OB**
 
-- El precio base para publicar un trabajo en OB es de U$125
-- 2 trabajos U$200
-- 5 trabajos U$400
+- El precio base para un servicio completo de reclutamiento en OB es de U$1000
+- 2 servicios U$1.800
+- 3 servicios U$2.500
 
-## Servicio de reclutamiento completo en **OB**
-
-Precio base
-
-- El precio base para un servicio de reclutamiento en OB es de U$800
-- 2 servicios U$1,500
-- 3 servicios U$2,000
-
-<br />
 <hr />
 <br />
 
-## Cómo puede ayudar OB
+## Extras
 
-### Encuentre candidatos más rápido: +90 % de tasa de relleno para posiciones publicadas
+### Bueno U$50
+
+- Mostrar el logotipo de su empresa
+- Compartir en el canal de Discord y Slack
+- 2x publicaciones en redes sociales
+
+### Mejor U$100
+
+- Buenas caracteristicas
+- Anuncio de PIN durante 7 días
+- 3x publicaciones en redes sociales
+
+### Mejor U$150
+
+- Funciones buenas y mejores
+- Distribuir trabajo a la red de socios
+- 4x publicaciones en redes sociales
+
+## Cómo puede ayudar **OB**
+
+### Encuentre candidatos más rápido: +90 % de tasa de ocupación de los puestos publicados
 
 Busque y coloque candidatos remotos de calidad rápidamente de nuestra gran comunidad remota. Más del 90% de nuestros clientes encuentran a sus candidatos a través de trabajos publicados en nuestra plataforma.
 
-### Ahorre tiempo ordenando cientos de aplicaciones: nueva función de filtrado de candidatos
+### Ahorre tiempo clasificando cientos de solicitudes: nueva función de filtrado de candidatos
 
 Reciba lotes de solicitantes priorizados manualmente para que pueda dejar de perder el tiempo clasificando cientos de solicitantes.
 
-### Confíe en nosotros para que le respaldemos en la contratación en cualquier momento: 80 % de tasa de devolución de clientes al mes durante el mes
+### Confíe en nosotros para respaldarlo en la contratación en cualquier momento: 80 % de tasa de devolución de clientes mes tras mes
 
-“Ustedes son increíbles y han sido un gran recurso para el crecimiento de nuestro equipo. Emocionado de continuar usando OB a medida que se abren nuevos roles para nosotros". - Nuestros clientes
+“Ustedes son increíbles y han sido un gran recurso para el crecimiento de nuestro equipo. Emocionado de continuar usando **OB** a medida que se abren nuevas funciones para nosotros".
+– Cliente invitado
 
 ### Publique ofertas de trabajo con facilidad
 
@@ -77,14 +87,14 @@ Publique múltiples trabajos de manera rápida y eficiente. Ofrecemos paquetes c
 
 ## Apóyate en nuestra red de socios
 
-Publique su trabajo en OB y también se distribuirá a:
+Publique su trabajo en **OB** y también se distribuirá a:
 
-- Red de empleos de TICs
-- Paginas aliadas
+- Red de empleos de TI
+- Páginas aliadas
 - Comunidades aliadas
-- Blogs de (Trabajos Remotos)
-- +Más de 20 sitios de trabajo de nicho independientes que utilizan nuestro RSS Feed.
+- Blogs sobre (Trabajos Remotos)
+- \+ Más de 20 sitios de trabajo de nicho independientes que utilizan nuestro RSS Feed
 
-# ¿Listx para publicar tu trabajo?
+# ¿Listx para publicar su trabajo?
 
-### info@OrbitBase.IO
+# Info@OrbitBase.IO
