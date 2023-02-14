@@ -56,7 +56,7 @@ El trabajo remoto ya no es el futuro del trabajo, está aquí. Contrate candidat
 - Anuncio de PIN durante 7 días
 - 3x publicaciones en redes sociales
 
-### Mejor U$150
+### Super Mejor U$150
 
 - Funciones buenas y mejores
 - Distribuir trabajo a la red de socios
